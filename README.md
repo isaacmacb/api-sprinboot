@@ -16,7 +16,6 @@ API REST desenvolvida com Spring Boot para fins de estudo e desenvolvimento back
 
 ---
 
----
 
 ## ⚙️ Como executar o projeto
 
